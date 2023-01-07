@@ -7,7 +7,7 @@ const App = () => {
     <>
       <h2>
         <i>
-          the second of our branch
+          Hello , its me
         </i>
       </h2>
     </>
