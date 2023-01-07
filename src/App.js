@@ -4,13 +4,7 @@ import './App.css'
 const App = () => {
 
   return (
-    <>
-      <h2>
-        <i>
-          Hello , its me
-        </i>
-      </h2>
-    </>
+      <h1>Hello Test1</h1>
   )
 }
 
